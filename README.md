@@ -5,11 +5,11 @@
 
 ## Contacts
 - **Location**: Russia, Yekaterinburg
-**Phone**: +79122617121
-**Telegram**:@Sard_n
-**E-mail**: abyzovaleksandr5@gmail.com
-**GitHab**: https://github.com/Sardn
-**Nickname on the discord server**: Lexandr #2055
+- **Phone**: +79122617121
+- **Telegram**:@Sard_n
+- **E-mail**: abyzovaleksandr5@gmail.com
+- **GitHab**: https://github.com/Sardn
+- **Nickname on the discord server**: Lexandr #2055
 
 ## About Me
 Hi!
