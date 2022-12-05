@@ -4,7 +4,7 @@
 # Abyzov Aleksander
 
 ## Contacts
-**Location**: Russia, Yekaterinburg
+- **Location**: Russia, Yekaterinburg
 **Phone**: +79122617121
 **Telegram**:@Sard_n
 **E-mail**: abyzovaleksandr5@gmail.com
